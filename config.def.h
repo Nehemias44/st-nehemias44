@@ -5,8 +5,8 @@
  *
  * font: see http://freedesktop.org/software/fontconfig/fontconfig-user.html
  */
-static char *font = "Iosevka Nerd Font:pixelsize=12:antialias=true:autohint=true";
-static int borderpx = 20;
+static char *font = "Iosevka Nerd Font:pixelsize=16:antialias=true:autohint=true";
+static int borderpx = 30;
 
 /*
  * What program is execed by st depends of these precedence rules:
